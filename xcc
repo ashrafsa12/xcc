@@ -1,0 +1,51 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="de" xml:lang="de">
+
+<head>
+   <meta name="description" content="Everyday Natural Shop bietet die Vitamine und Mineralstoffe fÃ¼r alle Menschen an."/>
+   <meta name="keywords" content="Vitamine, Mineralstoffe, Wohlbefinden, Gesundheit"/>
+   <meta name="author" content="Erika Roncevic"/>
+   <meta name="robots" content="index,follow"/>
+   <meta http-equiv="content-type" content="text/html; charset=iso-8859-1" />
+   <meta http-equiv="content-language" content="de" />
+   <meta http-equiv="expires" content="0" />
+   <meta http-equiv="cache-control" content="no-cache" />
+   <meta http-equiv="pragma" content="no-cache" />
+   <title>Everyday Natural-Startseite</title>
+   <link href="seite.css" rel="stylesheet" type="text/css" media="screen" />
+
+</head>
+<body id="startseite">
+<div id="wrapper">
+<header>
+<div id="kopfbereich">
+<p><strong>Die allt&auml;gliche Vitamine und Minerale, alles f&uuml;r Ihr WOHLBEFINDEN an einem Ort! </strong></p>
+</header>
+</div> <!-- Ende kopfbereich -->
+
+<div id="navibereich">
+<a href="index.html">Startseite</a></li>
+		<a href="produkte.html" title="Zu unseren Produkten">Produkte</a></li>
+		<a href="kontakt.html" title="Kontakt">Kontakt</a></li>
+		<a href="registrierung.html" title="Zur Registrierung">Registrierung</a></li>
+        <a href="anmelden.html" title="Zur Anmeldung">Anmelden</a></li>
+</div> <!-- Ende navibereich -->
+
+<div id="textbereich">
+<h2>Anmeldung</h2>
+
+<p> Hier k&ouml;nnen Sie sich mit Ihrem Benutzernamen und Passwort <a href="anmeld.html" title="Anmeldung">anmelden.</a></p>
+
+</div> <!-- Ende textbereich -->
+
+<div id="fussbereich">
+<address>
+Everyday Natural Shop &middot; Bahnhofstr. 28 &middot; 71637 Karlsruhe
+<br />
+Tel: 0157 34414231 &middot; Fax: 0059 5432 
+</address>
+</div> <!-- Ende fussbereich -->
+
+</div> <!-- Ende wrapper -->
+</body>
+</html>
